@@ -11,7 +11,3 @@ document.querySelectorAll(".nav-link").forEach(n => n.
         hamburger.classList.remove("active");
         navMenu.classList.remove("active");
     }))
-    
-const navLink = document.getElementById('navLink')
-
-navLink.classList.add('bold')
